@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Emin Ege Kodaman, a software engineering student at Karadeniz Technical University.
 - 👀 I’m interested in game development and the game industry as a whole, and I'm constantly improving myself to become a part of it.
-- 🌱 I’m currently learning Unity3D, Blender
+- 🌱 I’m currently learning UE5 and Blender
 - 📫 How to reach me: eminege@gmail.com
