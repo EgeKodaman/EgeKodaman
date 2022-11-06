@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Emin Ege Kodaman, a software engineering student at Karadeniz Technical University.
-- 👀 I’m interested in app and game development as a whole, and I'm constantly improving myself to become a part of it.
-- 🌱 I’m currently learning UE5 and Oracle APEX
+- 👀 I’m interested in app and game development as a whole
+- 🌱 I’m currently learning ARKit and Oracle APEX
 - 📫 How to reach me: eminege@gmail.com
